@@ -1,0 +1,14 @@
+{
+  "name": "rework-defaults",
+  "repo": "segmentio/rework-defaults",
+  "description": "rework defaults",
+  "version": "0.0.1",
+  "dependencies": {
+    "rework-visit": "^1.0.0"
+  },
+  "devDependencies": {
+    "should": "^3.1.2",
+    "mocha": "^1.17.1",
+    "rework": "^0.20.2"
+  }
+}

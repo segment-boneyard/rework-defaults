@@ -1,0 +1,14 @@
+
+a {
+  color: red;
+}
+
+b {
+  color: yellow;
+}
+
+@media print {
+  c {
+    color: red;
+  }
+}
