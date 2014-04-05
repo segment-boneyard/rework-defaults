@@ -1,17 +1,19 @@
 
+a,
+b {
+  width: 100px;
+}
+
 a {
   color: red;
-  width: 100px;
 }
 
 b {
   color: yellow;
-  width: 100px;
 }
 
 @media print {
   c {
     color: red;
-    width: 100px;
   }
 }
